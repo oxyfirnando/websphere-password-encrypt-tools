@@ -6,11 +6,12 @@ This project contain scripts for IBM WebSphere Application Server Password Encry
 * **wsencodepassword.sh** for Unix/Linux bash script.
 
 **PowerShell**
-<br/>
-![IBM WebSphere Application Server Password Encrypt Powershell](img/powershell.png)
+<br />
+![IBM WebSphere Application Server Password Encrypt Powershell](img/powershell.PNG)
 
 **Unix/Linux Bash Script**
-![Image of IBM WebSphere Application Server Password Encrypt Powershell](/img/linux.png)
+<br />
+![Image of IBM WebSphere Application Server Password Encrypt Powershell](img/linux.PNG)
 
 ## How It Works
 
