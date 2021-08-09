@@ -15,7 +15,7 @@ This project contain scripts for IBM WebSphere Application Server Password Encry
 
 ## How It Works
 
-Basicaly it run IBM WebSphere Application Server native Java com.ibm.ws.security.utils.PasswordEncoder and com.ibm.ws.security.utils.PasswordDecoder classes.
+Basicaly it run IBM WebSphere Application Server native Java com.ibm.ws.security.util.PasswordEncoder and com.ibm.ws.security.util.PasswordDecoder classes.
 
 
 ## Usage
